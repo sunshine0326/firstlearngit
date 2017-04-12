@@ -1,2 +1,2 @@
 Git is  a control version system.
-Git is interesting!
+Git is interesting and easy!
